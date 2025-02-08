@@ -1,6 +1,6 @@
 <h1>Darshi Shah</h1>
 # 💫 About Me:
-I'm pursuing in MCA.<br>I'm currently learning HTML,CSS,JS,React,Node js, Express js, Mongo Db .<br>
+I'm pursuing MCA.<br>I'm currently learning Marn Stack.<br>
 
 
 ## 🌐 Socials:
