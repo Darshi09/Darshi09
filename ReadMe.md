@@ -1,7 +1,7 @@
 <h1>Darshi Shah</h1>
 
 # 💫 About Me:
-I'm pursuing MCA.<br>I'm currently learning Marn Stack.<br>
+I'm pursuing MCA.<br>I'm currently learning MERN Stack.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/darshiii__9)  
