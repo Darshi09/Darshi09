@@ -1,18 +1,211 @@
-# 💫 About Me:
-I'm currently pursing MCA.<br>I'm Currently learning python and postgresql.<br><br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/darshi-shah-49a63b257) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Darshi&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Darshi&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Darshi&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Darshi&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Master prompt Create a premium GitHub Profile README hero banner entirely in pure SVG.
+The output MUST be responsive, optimized for GitHub, and look exactly like a high-end developer profile.
+========================
+GENERAL LAYOUT
+========================
+Canvas:
+- 1180 × 610
+- Rounded corners
+- Modern spacing
+- Perfect alignment
+Split into two sections.
+LEFT SIDE
+Occupies around 38%.
+Contains:
+• Large animated ASCII portrait.
+The ASCII should:
+- reveal line-by-line
+- have typing animation
+- include scanline effect
+- glowing gradient
+- cursor blink
+- cyber terminal feeling
+ASCII uses gradient colors instead of plain text.
+Gradient slowly shifts between colors.
+ASCII should slightly float.
+RIGHT SIDE
+Professional terminal window.
+Include:
+Greeting
+Hi 👋
+I'm Darshi Shah
+Animated typing text
+Example:
+IMCA Student
+Frontend Developer
+Python Programmer
+UI/UX Enthusiast
+Open Source Learner
+Creative Designer
+AI Explorer
+Full Stack Developer
+Open Source Contributor
+UI Engineer
+Always Learning 🚀
+Each phrase types character-by-character.
+Below that:
+📍 Location      : Gujarat, India
+🎓 Education     : IMCA Student
+💻 Current Focus : Python • Web Development • UI/UX
+🌱 Learning      : React • Django • AI
+📫 Email         : your-email@example.com
+🌐 Portfolio     : Coming Soon
+Each item reveals sequentially.
+Then:
+Skills section
+Display glowing pills.
+Examples
+React
+Next.js
+Node.js
+TypeScript
+Tailwind
+Python
+Docker
+Postgres
+AWS
+Git
+Figma
+Hover effect:
+pill slightly enlarges
+glow increases
+Bottom:
+Social icons
+GitHub   : https://github.com/Darshi09
+LinkedIn : https://linkedin.com/in/your-profile
+Instagram: https://instagram.com/your_username
+Portfolio
+Minimal glowing icons.
+========================
+ANIMATIONS
+========================
+Everything must animate.
+ASCII
+Reveal line-by-line
+Gradient moves continuously
+Typing cursor blinks
+Terminal
+Typing animation
+Sequential reveal
+Cursor blinking
+Background
+Floating radial gradients
+Noise texture
+Moving scanline
+Tiny animated particles
+Glass reflection
+Border shimmer
+Subtle floating glow
+Nothing should feel static.
+========================
+VISUAL STYLE
+========================
+Glassmorphism
+Background blur
+Soft reflections
+Rounded corners
+Thin glowing borders
+Modern premium UI
+Depth using shadows
+No flat colors.
+Everything should feel like Apple + Linear + Vercel.
+========================
+DARK MODE
+========================
+Background
+#030712
+Panels
+#0F172A
+Border
+rgba(255,255,255,.08)
+Text
+#F8FAFC
+Muted text
+#94A3B8
+Accent Gradient
+#7C3AED
+↓
+#22D3EE
+↓
+#10B981
+ASCII
+Animated cyan-purple gradient.
+Glow
+cyan + violet.
+Background glow
+Blue
+Purple
+Emerald
+Very subtle.
+========================
+LIGHT MODE
+========================
+Background
+#FFFFFF
+Panels
+#F8FAFC
+Border
+rgba(15,23,42,.08)
+Primary text
+#0F172A
+Secondary text
+#475569
+Accent Gradient
+#2563EB
+↓
+#06B6D4
+↓
+#10B981
+ASCII
+Blue → Cyan gradient.
+Glow should be softer than dark mode.
+Background
+Very subtle radial gradients.
+Soft shadows.
+Glass effect remains.
+========================
+SVG REQUIREMENTS
+========================
+Use ONLY
+linearGradient
+radialGradient
+filter
+mask
+clipPath
+animate
+animateTransform
+animateMotion
+No JavaScript.
+Everything must be SMIL animations.
+GitHub compatible.
+========================
+MICRO ANIMATIONS
+========================
+✔ Border shimmer
+✔ Gradient movement
+✔ Floating particles
+✔ Typing cursor
+✔ Scanline sweep
+✔ Glow pulse
+✔ Sequential reveal
+✔ Floating ASCII
+✔ Animated gradients
+✔ Noise overlay
+✔ Glass reflections
+========================
+QUALITY
+========================
+The SVG should look like a $500 GitHub profile header.
+Extremely polished.
+Minimal.
+Elegant.
+Modern.
+Premium.
+Pixel-perfect.
+No cartoon style.
+No unnecessary colors.
+Everything should feel like GitHub + Vercel + Linear + Apple Design.
+Generate TWO separate SVG files:
+1. dark.svg
+2. light.svg
+Both should have identical layout and animations while only changing the color palette to suit dark and light GitHub themes.
